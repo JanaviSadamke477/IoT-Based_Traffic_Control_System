@@ -1,0 +1,11 @@
+| Item           | Qty | Unit Price | Total |
+| -------------- | --: | ---------: | ----: |
+| ESP32          |   1 |       ₹450 |  ₹450 |
+| Arduino UNO    |   1 |       ₹650 |  ₹650 |
+| IR Sensor      |   4 |        ₹70 |  ₹280 |
+| Sound Sensor   |   1 |       ₹120 |  ₹120 |
+| Servo Motor    |   2 |       ₹120 |  ₹240 |
+| LEDs           |  12 |         ₹5 |   ₹60 |
+| Buck Converter |   1 |        ₹90 |   ₹90 |
+| Battery        |   1 |       ₹300 |  ₹300 |
+| Miscellaneous  |   - |       ₹300 |  ₹300 |
