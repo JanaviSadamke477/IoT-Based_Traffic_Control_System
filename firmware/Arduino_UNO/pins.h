@@ -24,3 +24,17 @@ Servo s2;
 void initializePins();
 
 #endif
+
+void initializePins()
+{
+    pinMode(LED_R,OUTPUT);
+    pinMode(LED_G,OUTPUT);
+    pinMode(LED_Y,OUTPUT);
+
+    pinMode(LED2_R,OUTPUT);
+    pinMode(LED2_G,OUTPUT);
+    pinMode(LED2_Y,OUTPUT);
+
+    pinMode(IR1,INPUT);
+    pinMode(IR2,INPUT);
+}
